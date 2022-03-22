@@ -16,7 +16,12 @@
   
 </section>  
   
-  
+<section>
+<h2> Publication </h2>
+<a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank"> >>Link to the Main Publication.
+</section>                                                                                                                  
+                    
+
 <section>
 <h2> Artifacts Directory </h2>
 The artifacts generated in the experiment are listed in the <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/tree/main/Publica" target="_blank"> Publica</a> directory. Each ".rar" file represents the set of code/test cases/documentation for a particular program specification. The directory structure is organized as shown in the diagram below:
@@ -76,8 +81,4 @@ The artifacts generated in the experiment are listed in the <a href="https://git
  </ul>
 <section>
   
-<section>
-<h2> Publication </h2>
-<a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank"> >>Link to the Main Publication.
-</section>                                                                                                                  
-                                                                                                                  
+                                                                                              
