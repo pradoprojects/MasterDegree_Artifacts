@@ -2,8 +2,7 @@
 Artifacts generated during my Master degree at the University of São Paulo - Brazil (USP).
 
 <body>
-<div style="background-color: rgba(255, 255, 128, .5);">
-<section style="text-align: justify;">
+<section>
 <p>In this project, I planned, designed, and conducted an experimental study to characterize and evaluate the cost and strength of structural (<em> Data Flow and Control Flow criteria </em>) and functional testing criteria (<em>Equivalence Partition and Boundary Value Analysis</em>), comparing object-oriented and procedural programs. The contributions of this quantitative research were:
 <ul>
   <li>
@@ -17,8 +16,7 @@ Artifacts generated during my Master degree at the University of São Paulo - Br
   </li>
   </p>  
   
-</section>
-</div>  
+</section>  
   
 <h2> Artifacts Directory </h2>  
 <section>
@@ -33,7 +31,7 @@ The artifacts generated in the experiment are listed in the <a href="https://git
   </li>
    
   <li>
-   <strong> JaBUTi </strong> JUnit test cases adequated to the structural criteria. 
+   <strong> JaBUTi: </strong> JUnit test cases adequated to the structural criteria. 
   </li>
    
   <li>
@@ -41,7 +39,7 @@ The artifacts generated in the experiment are listed in the <a href="https://git
   </li>
    
   <li>
-   <strong> Java </strong> Java programs source code. 
+   <strong> Java: </strong> Java programs source code. 
   </li>
    
   <li>
@@ -49,31 +47,31 @@ The artifacts generated in the experiment are listed in the <a href="https://git
   </li>
    
   <li>
-   <strong> JaBUTi </strong> JUnit test cases adequated to the functional criteria. 
+   <strong> JaBUTi: </strong> JUnit test cases adequated to the functional criteria. 
   </li>
    
   <li>
-   <strong> Doc_Esp_X </strong> Program especification. 
+   <strong> Doc_Esp_X: </strong> Program especification. 
   </li>
    
   <li>
-   <strong> Doc_imp_c </strong> C/C++ program documentation (list of function headers for the functional testing). 
+   <strong> Doc_imp_c: </strong> C/C++ program documentation (list of function headers for the functional testing). 
   </li>
    
   <li>
-   <strong> Doc_imp_java </strong> Java program documentation (list of methods headers for the functional testing). 
+   <strong> Doc_imp_java: </strong> Java program documentation (list of methods headers for the functional testing). 
   </li>
    
   <li>
-   <strong> CLE </strong> Form filled out with the Equivalence Classes for the program.
+   <strong> CLE: </strong> Form filled out with the Equivalence Classes for the program.
   </li>
    
   <li>
-   <strong> Doc_tes_c </strong> C/C++ test documentation. 
+   <strong> Doc_tes_c: </strong> C/C++ test documentation. 
   </li>
    
   <li>
-   <strong> Doc_tes_java </strong> JUnit test documentation. 
+   <strong> Doc_tes_java: </strong> JUnit test documentation. 
   </li>
    
  </ul>
