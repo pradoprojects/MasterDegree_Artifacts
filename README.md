@@ -1,5 +1,5 @@
-# MasterDegree_Artifacts
-🐤🐤🐤Artifacts generated during my Master degree at the University of São Paulo - Brazil (USP).
+# MasterDegree_Artifacts 🐤🐤🐤
+Artifacts generated during my Master degree at the University of São Paulo - Brazil (USP).
 
 <body>
 <section style="text-align: justify">
