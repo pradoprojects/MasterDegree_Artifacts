@@ -15,11 +15,17 @@
     Supporting the training and teaching of software testing activity.
   </li>
   </p>  
+  
 </section>
   
-<aside>
+<section>
+The artifacts generated in the experiment are listed in the <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/tree/main/Publica" target="_blank"> Publica</a> directory. Each ".rar" file represents the set of code/test cases/documentation for a particular program specification. The directory structure is organizaed as shown in the figure below:
+                                                               
+<img src="./directory_organization.png" alt="Figure of Artifacts Directory Structure">
+                                                               
+<section>
+
   <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank">Main Publication</a>
-</aside>
                                                                                                                   
                                                                                                                   
 </body>
