@@ -78,6 +78,6 @@ The artifacts generated in the experiment are listed in the <a href="https://git
   
 <section>
 <h2> Publication </h2>
-<a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank">Link to the Main Publication.
+<a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank"> >>Link to the Main Publication.
 </section>                                                                                                                  
                                                                                                                   
