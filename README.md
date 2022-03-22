@@ -50,6 +50,30 @@ The artifacts generated in the experiment are listed in the <a href="https://git
    <strong> JaBUTi </strong> JUnit test cases adequated to the functional criteria. 
   </li>
    
+  <li>
+   <strong> Doc_Esp_X </strong> Program especification. 
+  </li>
+   
+  <li>
+   <strong> Doc_imp_c </strong> C/C++ program documentation (list of function headers for the functional testing). 
+  </li>
+   
+  <li>
+   <strong> Doc_imp_java </strong> Java program documentation (list of methods headers for the functional testing). 
+  </li>
+   
+  <li>
+   <strong> CLE </strong> Form filled out with the Equivalence Classes for the program.
+  </li>
+   
+  <li>
+   <strong> Doc_tes_c </strong> C/C++ test documentation. 
+  </li>
+   
+  <li>
+   <strong> Doc_tes_java </strong> JUnit test documentation. 
+  </li>
+   
  </ul>
 <section>
 
