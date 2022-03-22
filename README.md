@@ -2,7 +2,8 @@
 Artifacts generated during my Master degree at the University of São Paulo - Brazil (USP).
 
 <body>
-<section style="text-align: justify">
+<div style="background-color: rgba(255, 255, 128, .5);">
+<section style="text-align: justify;">
 <p>In this project, I planned, designed, and conducted an experimental study to characterize and evaluate the cost and strength of structural (<em> Data Flow and Control Flow criteria </em>) and functional testing criteria (<em>Equivalence Partition and Boundary Value Analysis</em>), comparing object-oriented and procedural programs. The contributions of this quantitative research were:
 <ul>
   <li>
@@ -17,12 +18,13 @@ Artifacts generated during my Master degree at the University of São Paulo - Br
   </p>  
   
 </section>
+</div>  
   
 <h2> Artifacts Directory </h2>  
 <section>
-The artifacts generated in the experiment are listed in the <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/tree/main/Publica" target="_blank"> Publica</a> directory. Each ".rar" file represents the set of code/test cases/documentation for a particular program specification. The directory structure is organized as shown in the figure below:
+The artifacts generated in the experiment are listed in the <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/tree/main/Publica" target="_blank"> Publica</a> directory. Each ".rar" file represents the set of code/test cases/documentation for a particular program specification. The directory structure is organized as shown in the diagram below:
 <div>                                                               
-  <img style="" src="./directory_organization.png" alt="Figure showing the directory structure for each program">
+  <img style="" src="./directory_organization.png" alt="Diagram showing the directory structure for each program">
 </div>   
   
  <ul>
@@ -77,7 +79,7 @@ The artifacts generated in the experiment are listed in the <a href="https://git
  </ul>
 <section>
 
-  <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank">Main Publication</a>
+<a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank">Main Publication</a>
                                                                                                                   
                                                                                                                   
 </body>
