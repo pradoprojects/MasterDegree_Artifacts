@@ -17,7 +17,7 @@
   </p>  
 </section>
   
-<aside">
+<aside>
   <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank">Main Publication</a>
 </aside>
                                                                                                                   
