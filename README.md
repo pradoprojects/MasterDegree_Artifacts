@@ -1,9 +1,6 @@
 # MasterDegree_Artifacts 🐤🐤🐤
 Artifacts generated during my Master degree at the University of São Paulo - Brazil (USP).
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-
-<body>
 <section>
 <p>In this project, I planned, designed, and conducted an experimental study to characterize and evaluate the cost and strength of structural (<em> Data Flow and Control Flow criteria </em>) and functional testing criteria (<em>Equivalence Partition and Boundary Value Analysis</em>), comparing object-oriented and procedural programs. The contributions of this quantitative research were:
 <ul>
@@ -85,4 +82,3 @@ The artifacts generated in the experiment are listed in the <a href="https://git
 <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank">Link to the Main Publication.
 </section>                                                                                                                  
                                                                                                                   
-</body>
