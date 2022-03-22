@@ -18,11 +18,39 @@
   
 </section>
   
+<h2> Artifacts Directory </h2>  
 <section>
-The artifacts generated in the experiment are listed in the <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/tree/main/Publica" target="_blank"> Publica</a> directory. Each ".rar" file represents the set of code/test cases/documentation for a particular program specification. The directory structure is organizaed as shown in the figure below:
-                                                               
-<img src="./directory_organization.png" alt="Figure of Artifacts Directory Structure">
-                                                               
+The artifacts generated in the experiment are listed in the <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/tree/main/Publica" target="_blank"> Publica</a> directory. Each ".rar" file represents the set of code/test cases/documentation for a particular program specification. The directory structure is organized as shown in the figure below:
+<div>                                                               
+  <img style="" src="./directory_organization.png" alt="Figure showing the directory structure for each program">
+</div>   
+  
+ <ul>
+  <li>
+   <strong> Poketool: </strong> C/C++ test cases adequated to the structural criteria. 
+  </li>
+   
+  <li>
+   <strong> JaBUTi </strong> JUnit test cases adequated to the structural criteria. 
+  </li>
+   
+  <li>
+   <strong> C: </strong> C/C++ programs source code. 
+  </li>
+   
+  <li>
+   <strong> Java </strong> Java programs source code. 
+  </li>
+   
+  <li>
+   <strong> Cute: </strong> C/C++ test cases adequated to the functional criteria. 
+  </li>
+   
+  <li>
+   <strong> JaBUTi </strong> JUnit test cases adequated to the functional criteria. 
+  </li>
+   
+ </ul>
 <section>
 
   <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank">Main Publication</a>
