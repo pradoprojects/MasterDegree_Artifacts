@@ -18,8 +18,9 @@ Artifacts generated during my Master degree at the University of São Paulo - Br
   
 </section>  
   
-<h2> Artifacts Directory </h2>  
+  
 <section>
+<h2> Artifacts Directory </h2>
 The artifacts generated in the experiment are listed in the <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/tree/main/Publica" target="_blank"> Publica</a> directory. Each ".rar" file represents the set of code/test cases/documentation for a particular program specification. The directory structure is organized as shown in the diagram below:
 <div>                                                               
   <img style="" src="./directory_organization.png" alt="Diagram showing the directory structure for each program">
@@ -76,8 +77,10 @@ The artifacts generated in the experiment are listed in the <a href="https://git
    
  </ul>
 <section>
-
-<a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank">Main Publication</a>
-                                                                                                                  
+  
+<section>
+<h2> Publication </h2>
+<a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank">Main Publication
+</section>                                                                                                                  
                                                                                                                   
 </body>
