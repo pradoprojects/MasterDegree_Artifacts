@@ -17,8 +17,10 @@
 </section>  
   
 <section>
-<h2> Publication </h2>
+<h2> Publications </h2>
 <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank"> >>Link to the Main Publication.
+
+<a href="https://teses.usp.br/teses/disponiveis/55/55134/tde-18062009-091608/pt-br.php" target="_blank"> >>Link to the Dissertation.
 </section>                                                                                                                  
                     
 
