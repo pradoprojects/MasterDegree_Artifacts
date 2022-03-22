@@ -3,7 +3,7 @@
 
 <body>
 <section style="text-align: justify">
-<p>In this project, I planned, designed, and conducted an experimental study to characterize and evaluate the cost and strength of structural and functional testing criteria, comparing object-oriented and procedural programs. The contributions of this quantitative research were:
+<p>In this project, I planned, designed, and conducted an experimental study to characterize and evaluate the cost and strength of structural (<em> Data Flow and Control Flow criteria </em>) and functional testing criteria (<em>Equivalence Partition and Boundary Value Analysis</em>), comparing object-oriented and procedural programs. The contributions of this quantitative research were:
 <ul>
   <li>
     Obtaining initial results about the investigated research questions;
