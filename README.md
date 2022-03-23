@@ -12,15 +12,16 @@
   <li>
     Supporting the training and teaching of software testing activity.
   </li>
-  </p>  
+</ul>
+</p>  
   
 </section>  
   
 <section>
 <h2> Publications </h2>
-<a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank"> >>Link to the Main Publication.
+<a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank"> >>Link to the Main Publication. </a>
 
-<a href="https://teses.usp.br/teses/disponiveis/55/55134/tde-18062009-091608/pt-br.php" target="_blank"> >>Link to the Dissertation.
+<a href="https://teses.usp.br/teses/disponiveis/55/55134/tde-18062009-091608/pt-br.php" target="_blank"> >>Link to the Dissertation. </a>
 </section>                                                                                                                  
                     
 
