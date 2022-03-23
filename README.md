@@ -1,4 +1,4 @@
-# Master Degree's Artifacts
+# 📘 | Master Degree's Artifacts
 
 
 <div align="center">                                                             
