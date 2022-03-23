@@ -1,6 +1,13 @@
 # Master Degree's Artifacts
 
+
+<div align="center">                                                             
+  <img width="300" height="250" src="./Testing strategy.png" alt="Testing Strategy applied in the programs">
+</div>  
+
 <section>
+<div align="justify">
+<br/>
 <p>In this project, I planned, designed, and conducted an experimental study to characterize and evaluate the cost and strength of white-box (<em> Structural criteria: Def-Use, All-Branchs and All-Nodes</em>) and black-box testing criteria (<em> Functional criteria: Equivalence Partition and Boundary Value Analysis</em>) comparing object-oriented and procedural programs. The contributions of this quantitative research were:
 <ul>
   <li>
@@ -14,7 +21,7 @@
   </li>
 </ul>
 </p>  
-  
+</div>   
 </section>  
   
 <section>
@@ -32,6 +39,8 @@
 
 <section>
 <h2> Artifacts Directory </h2>
+<div align="justify">
+<br/>
 The artifacts generated in the experiment are listed in the <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/tree/main/Publica" target="_blank"> Publica</a> directory. Each ".rar" file represents the set of code/test cases/documentation for a particular program specification. The directory structure is organized as shown in the diagram below:
 <div>                                                               
   <img style="border-radius:50px;" src="./directory_organization.png" alt="Diagram showing the directory structure for each program">
@@ -87,6 +96,7 @@ The artifacts generated in the experiment are listed in the <a href="https://git
   </li>
    
  </ul>
+</div>
 <section>
   
                                                                                               
