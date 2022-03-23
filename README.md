@@ -1,4 +1,4 @@
-# MasterDegree_Artifacts 🐤🐤🐤
+# Master Degree Artifacts🐤
 
 <section>
 <p>In this project, I planned, designed, and conducted an experimental study to characterize and evaluate the cost and strength of white-box (<em> Structural criteria: Def-Use, All-Branchs and All-Nodes</em>) and black-box testing criteria (<em> Functional criteria: Equivalence Partition and Boundary Value Analysis</em>) comparing object-oriented and procedural programs. The contributions of this quantitative research were:
@@ -19,9 +19,14 @@
   
 <section>
 <h2> Publications </h2>
-<a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank"> >>Link to the Main Publication. </a>
-
-<a href="https://teses.usp.br/teses/disponiveis/55/55134/tde-18062009-091608/pt-br.php" target="_blank"> >>Link to the Dissertation. </a>
+  <ul>
+  <li>
+  <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/blob/main/CLEI_Publication.pdf" target="_blank"> Link to the Main Publication. </a>
+  </li>
+  <li>
+  <a href="https://teses.usp.br/teses/disponiveis/55/55134/tde-18062009-091608/pt-br.php" target="_blank"> Link to the Dissertation. </a>
+  </li>
+  </ul>
 </section>                                                                                                                  
                     
 
