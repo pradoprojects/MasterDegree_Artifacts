@@ -1,4 +1,4 @@
-# Master Degree Artifact
+# Master Degree's Artifacts
 
 <section>
 <p>In this project, I planned, designed, and conducted an experimental study to characterize and evaluate the cost and strength of white-box (<em> Structural criteria: Def-Use, All-Branchs and All-Nodes</em>) and black-box testing criteria (<em> Functional criteria: Equivalence Partition and Boundary Value Analysis</em>) comparing object-oriented and procedural programs. The contributions of this quantitative research were:
