@@ -2,7 +2,7 @@
 
 
 <div align="center">                                                             
-  <img width="300" height="250" src="./Testing strategy.png" alt="Testing Strategy applied in the programs">
+  <img width="50%" height="50%" src="./Testing strategy.png" alt="Testing Strategy applied in the programs">
 </div>  
 
 <section>
@@ -42,8 +42,8 @@
 <div align="justify">
 <br/>
 The artifacts generated in the experiment are listed in the <a href="https://github.com/pradoprojects/MasterDegree_Artifacts/tree/main/Publica" target="_blank"> Publica</a> directory. Each ".rar" file represents the set of code/test cases/documentation for a particular program specification. The directory structure is organized as shown in the diagram below:
-<div>                                                               
-  <img style="border-radius:50px;" src="./directory_organization.png" alt="Diagram showing the directory structure for each program">
+<div align=center>                                                               
+  <img width="80%" height="80%" style="border-radius:50px;" src="./directory_organization.png" alt="Diagram showing the directory structure for each program">
 </div>   
   
  <ul>
